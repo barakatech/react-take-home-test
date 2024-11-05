@@ -56,8 +56,8 @@ As part of our hiring process for the Senior React Frontend Engineer position, w
 
 ## Deadline
 
-Please submit your assignment within [insert timeframe, e.g., 2-4 days] of receiving this assignment.
+Please submit your assignment within four days of receiving this assignment.
 
 ## Questions
 
-If you have any questions or need clarification, feel free to reach out to us at [insert contact information].
+If you have any questions or need clarification, feel free to reach out to us at andy@getbaraka.com
